@@ -1,4 +1,4 @@
-package com.sedin.xlaunchlab.compose
+package com.sedin.xlaunchlab.composable
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -16,7 +16,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.unit.dp
 import coil3.compose.AsyncImage
-import com.sedin.xlaunchlab.model.uiModels.User
+import com.sedin.xlaunchlab.model.uiModel.User
 import com.sedin.xlaunchlab.utils.commonComposable.HorizontalSpacer
 import com.sedin.xlaunchlab.utils.commonComposable.VerticalSpacer
 

@@ -1,4 +1,4 @@
-package com.sedin.xlaunchlab.model.uiModels
+package com.sedin.xlaunchlab.model.uiModel
 
 data class User(
   val id: String = "",

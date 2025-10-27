@@ -1,6 +1,6 @@
 package com.sedin.xlaunchlab.remote.dto
 
-import com.sedin.xlaunchlab.model.uiModels.User
+import com.sedin.xlaunchlab.model.uiModel.User
 import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 

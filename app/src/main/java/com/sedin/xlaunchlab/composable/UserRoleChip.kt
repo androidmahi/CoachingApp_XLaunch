@@ -1,4 +1,4 @@
-package com.sedin.xlaunchlab.compose
+package com.sedin.xlaunchlab.composable
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border

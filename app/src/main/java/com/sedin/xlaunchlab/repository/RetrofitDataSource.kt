@@ -1,6 +1,6 @@
 package com.sedin.xlaunchlab.repository
 
-import com.sedin.xlaunchlab.model.uiModels.User
+import com.sedin.xlaunchlab.model.uiModel.User
 import com.sedin.xlaunchlab.remote.XLaunchApiService
 import com.sedin.xlaunchlab.remote.dto.toUiModels
 

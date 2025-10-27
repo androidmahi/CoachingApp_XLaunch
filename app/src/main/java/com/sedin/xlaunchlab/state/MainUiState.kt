@@ -1,6 +1,6 @@
 package com.sedin.xlaunchlab.state
 
-import com.sedin.xlaunchlab.model.uiModels.User
+import com.sedin.xlaunchlab.model.uiModel.User
 
 data class MainUiState(
   val isLoading: Boolean = false,

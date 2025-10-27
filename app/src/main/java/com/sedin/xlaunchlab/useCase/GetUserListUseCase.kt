@@ -1,6 +1,6 @@
 package com.sedin.xlaunchlab.useCase
 
-import com.sedin.xlaunchlab.model.uiModels.User
+import com.sedin.xlaunchlab.model.uiModel.User
 import com.sedin.xlaunchlab.repository.RemoteRepository
 import javax.inject.Inject
 
