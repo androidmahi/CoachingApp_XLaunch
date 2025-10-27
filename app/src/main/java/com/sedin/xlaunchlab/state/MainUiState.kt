@@ -1,4 +1,4 @@
-package com.sedin.xlaunchlab
+package com.sedin.xlaunchlab.state
 
 import com.sedin.xlaunchlab.model.uiModels.User
 

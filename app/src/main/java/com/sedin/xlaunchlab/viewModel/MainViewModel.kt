@@ -2,7 +2,7 @@ package com.sedin.xlaunchlab.viewModel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.sedin.xlaunchlab.MainUiState
+import com.sedin.xlaunchlab.state.MainUiState
 import com.sedin.xlaunchlab.model.uiModels.User
 import com.sedin.xlaunchlab.useCase.GetUserListUseCase
 import com.sedin.xlaunchlab.utils.ext.getErrorMessage

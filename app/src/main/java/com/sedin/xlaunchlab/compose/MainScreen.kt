@@ -22,7 +22,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.sedin.xlaunchlab.MainUiState
+import com.sedin.xlaunchlab.state.MainUiState
 import com.sedin.xlaunchlab.utils.commonComposable.VerticalSpacer
 import com.sedin.xlaunchlab.utils.ext.showToast
 
